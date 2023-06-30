@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @PawAn0O
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-PawAn0O/PawAn0O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi .I am Pawan 
+![image](https://github.com/PawAn0O/PawAn0O/assets/138197992/324d83bc-663f-4500-b1ae-a37f295d208d)
+![image](https://github.com/PawAn0O/PawAn0O/assets/138197992/327f2189-feb7-48eb-9b46-b5b8e7d08cd0)
